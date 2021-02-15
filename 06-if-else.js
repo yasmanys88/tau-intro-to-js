@@ -7,3 +7,5 @@ if (attendance < 15) {
 } else {
     console.log("Es mayor a 15");
 }
+
+attendance <= 15 ? console.log("Menor igual a 15") : console.log("Mayor que 15");
